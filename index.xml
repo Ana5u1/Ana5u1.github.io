@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ana5ui&#39;s blog</title>
-        <link>https://Ana5ui.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>我们互为互文，把对方转换为文字和大写字母，让彼此永生，将彼此塑化，将彼此浸没在福尔马林溶液般的长篇短句里。</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Ana5ui@outlook.com (Ana5ui)</managingEditor>
             <webMaster>Ana5ui@outlook.com (Ana5ui)</webMaster><lastBuildDate>Sun, 09 Mar 2025 11:19:36 &#43;0800</lastBuildDate>
-            <atom:link href="https://Ana5ui.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Test</title>
-    <link>https://Ana5ui.github.io/posts/test/</link>
+    <link>http://localhost:1313/posts/test/</link>
     <pubDate>Sun, 09 Mar 2025 11:19:36 &#43;0800</pubDate>
     <author>Ana5ui</author>
-    <guid>https://Ana5ui.github.io/posts/test/</guid>
+    <guid>http://localhost:1313/posts/test/</guid>
     <description><![CDATA[<p>你好</p>
 <p>hello</p>
 <p>$a + b = c$</p>
