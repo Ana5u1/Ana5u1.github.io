@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - Ana5ui&#39;s blog</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://Ana5ui.github.io/posts/</link>
         <description>所有文章 | Ana5ui&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Ana5ui@outlook.com (Ana5ui)</managingEditor>
-            <webMaster>Ana5ui@outlook.com (Ana5ui)</webMaster><lastBuildDate>Sun, 09 Mar 2025 11:19:36 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>Ana5ui@outlook.com (Ana5ui)</webMaster><lastBuildDate>Sun, 09 Mar 2025 11:19:36 &#43;0800</lastBuildDate><atom:link href="https://Ana5ui.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Test</title>
-    <link>http://localhost:1313/posts/test/</link>
+    <link>https://Ana5ui.github.io/posts/test/</link>
     <pubDate>Sun, 09 Mar 2025 11:19:36 &#43;0800</pubDate>
     <author>Ana5ui</author>
-    <guid>http://localhost:1313/posts/test/</guid>
+    <guid>https://Ana5ui.github.io/posts/test/</guid>
     <description><![CDATA[<p>你好</p>
 <p>hello</p>
 <p>$a + b = c$</p>
